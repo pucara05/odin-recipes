@@ -1,0 +1,42 @@
+body{
+    background-color:mintcream;
+    scroll-behavior: smooth;
+ 
+}
+
+header{
+    text-align: center;
+    background-color: darkgrey;
+
+}
+
+div{
+    background-color: grey;
+    font-family: sans-serif;
+    color: black;
+    text-align: justify;
+
+image-rendering: auto;
+
+}
+nav{
+    display: flex;
+    
+
+}
+
+.img{
+  margin: 2 3 black;
+  align-items: center;
+  max-width: 100%;
+ height: auto;
+}
+
+@media (min-width: 600px){
+    .img{
+        width: 100%;
+    }
+}
+    
+
+
